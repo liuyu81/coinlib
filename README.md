@@ -1,1 +1,2 @@
-Tools and software components for managing the information from my collection of coins.
+Numismatic tools and software packages for managing the information of my collection of coins.
+http://coinlib.org
